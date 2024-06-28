@@ -1,0 +1,29 @@
+Section 2:
+
+Variables and Constants
+    What is variable ?
+    Its a data container , data storage
+
+Type of varible declaration
+    1. let
+        We use let keyword to create new variable in Javascript
+    2. const
+        We cannot change the value of const variables
+
+Variable Naming 
+    Allowed
+        let userName - camelCase
+        let ageGroup3 - Only letters and digits
+        let $kindOfSpecial - Starting with $ is Allowed
+        let _internalValue - Starting with _ is Allowed
+        let user_name - Allowed but bad practice
+    Not Allowed
+        let 21Players - Starting digits not Allowed
+        let user-bad - No special characters
+        let let - keywords not Allowed 
+
+Operators
+    Arithmatic Operators  + - * / % ** 
+    Assigment Operator = 
+
+
